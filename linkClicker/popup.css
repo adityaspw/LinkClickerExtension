@@ -1,0 +1,32 @@
+body{
+    background: #f1f5f9;
+}
+.container{
+    width: 300px;
+    text-align: center;
+}
+
+.btnClick{
+    font-weight: bold;
+    width: 130px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgba(0, 89, 255, 0.561);
+    cursor: pointer;
+}
+
+
+.btnData{
+    font-weight: bold;
+    width: 130px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgba(255, 30, 0, 0.561);
+    cursor: pointer;
+}
